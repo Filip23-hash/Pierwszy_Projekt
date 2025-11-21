@@ -1,0 +1,5 @@
+def sprawdz_srednia(ocena_1: int, ocena_2:int) -> float:
+
+pass
+
+suma = ocena_1 + ocena_2
